@@ -31,7 +31,6 @@ Here is a tracker of my daily concepts and practical applications.
 | **Day 1** | STLC & Test Scenarios | Designed high-level scenarios for an e-commerce login module | 📝 Completed |
 | **Day 2** | Test Case Documentation | Wrote step-by-step test cases with expected vs actual results | 📝 Completed |
 | **Day 3** | Defect Life Cycle | Logged a sample navigation bug with reproduction steps | 📝 Completed |
-| **Day 4** | (Topic goes here) | (What you built/tested goes here) | 🔄 In Progress |
 
 ## 📩 Connect With Me
 *   **LinkedIn:** [www.linkedin.com/in/neyyala-prem-sagar-468194343]
